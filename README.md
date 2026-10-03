@@ -19,7 +19,7 @@
 
 ### 👤 Who I Am
 
-```js
+
 const sanKumarTripathi = {
   title: "Aspiring AI Engineer | CS Undergraduate (2026)",
   languages: ["Python", "JavaScript", "Java", "C"],
@@ -36,7 +36,7 @@ const sanKumarTripathi = {
   currentlyExploring: "Self-hosted LLMs, Enterprise RAG & AI Agents",
   openTo: "Software Engineering / AI Engineering Internships",
 };
-```
+
 
 ---
 
